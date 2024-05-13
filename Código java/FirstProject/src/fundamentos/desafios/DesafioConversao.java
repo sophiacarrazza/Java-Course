@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.desafios;
 import java.util.*;
 
 public class DesafioConversao {

@@ -37,5 +37,12 @@ public class TipoString {
         //o trim tira os espaços em branco da string
         System.out.println("2".equals(doiscomespacos.trim())); //true
 
+        String candidato = "Joao";
+        System.out.println(candidato.equalsIgnoreCase("joao"));
+               // ou
+        System.out.println("joao".equalsIgnoreCase(candidato));
+
+
+
     }
 }
